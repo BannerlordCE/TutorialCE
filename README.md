@@ -1,5 +1,5 @@
 # Captivity Events 
-⚔️ _Version 1026_ 🗡️
+⚔️ _Version 1035_ 🗡️
 
 ## Overview
 This is the wiki for Captivity Events.  
